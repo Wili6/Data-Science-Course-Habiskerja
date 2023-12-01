@@ -6,8 +6,8 @@ Kemudian terdapat Packages yang berisi : Pandas dan Numpy, Matplotlib, dan Sciki
 - Modul 5 berisi project mengenai Modelling dengan Python yang berisi mengena: Data Preparation, Finding Data Insight, Data Manipulation, Modelling Preparation, Modelling, Modelling Evaluation
 - Selanjutnya di Modul ke 6 berupa mini project perusahaan Madugital. 
 Isi dari mini project modul 6 yaitu sebagai berikut:
-  1. Problem Statement (Pernyataan Masalah)
-  2. Data Preparation (Persiapan Data)
-  3. Exploratory Data Analysis (Eksplorasi Analisis Data)
-  4. Model Development (Pengembangan Model)
-  5. Conclusion (Kesimpulan)
+  - Problem Statement (Pernyataan Masalah)
+  - Data Preparation (Persiapan Data)
+  - Exploratory Data Analysis (Eksplorasi Analisis Data)
+  - Model Development (Pengembangan Model)
+  - Conclusion (Kesimpulan)
